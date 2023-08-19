@@ -1,4 +1,3 @@
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
@@ -23,12 +22,12 @@ class MyApp extends StatelessWidget {
             backgroundColor: Colors.transparent,
             appBar: AppBar(
               title: const Text(
-                'Second Lowest Grade Students',
+                'Nested Lists: Second Lowest Grade Students',
                
                 style: TextStyle(
                   fontSize: 28,
                   fontWeight: FontWeight.bold,
-                  color: Color.fromARGB(255, 92, 92, 92),
+                  color: Color.fromARGB(255, 48, 0, 151),
                   fontFamily: 'Roboto', 
                   letterSpacing: 1.2,
                   shadows: [
